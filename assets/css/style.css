@@ -527,9 +527,6 @@ footer ul li a {
 }
 
 @media(max-width:600px) {
-    header{
-        width: 70%;
-    }
     
     header #menu-icon {
         display: block;
@@ -560,7 +557,7 @@ footer ul li a {
     }
 
     header {
-        padding: 1rem 5rem;
+        padding: 1rem 4rem;
         gap: 8rem;
     }
 
@@ -593,6 +590,7 @@ footer ul li a {
 
 
 }
+
 
 
 
