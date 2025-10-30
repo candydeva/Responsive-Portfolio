@@ -536,7 +536,7 @@ footer ul li a {
         position: absolute;
         top: 100%;
         margin-top: 1rem;
-        width: 80%;
+        width: 70%;
         padding: 1rem;
         color: white;
         display: flex;
@@ -559,7 +559,7 @@ footer ul li a {
     header {
         padding: 1rem 4rem;
         gap: 8rem;
-        width:80%;
+        width:70%;
     }
 
     header .logo {
@@ -591,6 +591,7 @@ footer ul li a {
 
 
 }
+
 
 
 
