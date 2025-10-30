@@ -534,7 +534,7 @@ footer ul li a {
         position: fixed;
         top: 1rem;
         left: 50%;
-        width: 80%;
+        width: 70%;
         transform: translateX(-50%);
         display: flex;
         align-items: center;
@@ -606,3 +606,4 @@ footer ul li a {
 
 
 }
+
