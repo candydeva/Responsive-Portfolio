@@ -527,6 +527,10 @@ footer ul li a {
 }
 
 @media(max-width:600px) {
+    header{
+        width: 70%;
+    }
+    
     header #menu-icon {
         display: block;
     }
@@ -589,5 +593,6 @@ footer ul li a {
 
 
 }
+
 
 
